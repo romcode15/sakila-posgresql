@@ -210,5 +210,5 @@ Los usuarios registrados mediante `/api/auth/register` obtienen automáticamente
 ## Autor
 
 **Romel Yugcha**  
-Escuela Politécnica Nacional (ESPE)  
+UNIVERSIDAD DE LAS FUERZAS ARMADAS (ESPE)  
 2026
